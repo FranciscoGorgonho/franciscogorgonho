@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Quality Assurance na empresa MXM Sistemas, especializada em soluções tecnologicas com foco em gestão empresarial.
 - 📫 Fale comigo:
-<br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscogorgonho/)
+<br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-gorgonho/)
 
 ![FranciscoGorgonho GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscogorgonho&show_icons=true&theme=onedark)
 
