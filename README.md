@@ -8,7 +8,8 @@
 
 ![FranciscoGorgonho GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscogorgonho&show_icons=true&theme=onedark)
 
-### Tecnologias que uso no meu dia.
+
+### Tecnologias que estou estudando.
 
 <div style="display: inline_block"><br/>
   <div>
