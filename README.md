@@ -7,6 +7,8 @@
 <br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-gorgonho/)
 
 ![FranciscoGorgonho GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscogorgonho&show_icons=true&theme=onedark)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGorgonho&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+</div>
 
 
 ### Tecnologias que estou estudando.
@@ -30,6 +32,26 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+## Principais Projetos
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoGorgonho&repo=Senai&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FranciscoGorgonho/Senai)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoGorgonho&repo=Alura&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FranciscoGorgonho/Iteras)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoGorgonho&repo=Iterasys&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FranciscoGorgonho/Iterasys)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoGorgonho&repo=TestesRestAssured&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FranciscoGorgonho/TestesRestAssured)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoGorgonho&repo=qa_academy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FranciscoGorgonho/qa_academy)
+ 
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FranciscoGorgonho}/count.svg" /></p> 
+<br></div>
 
 <!--
 **FranciscoGorgonho/franciscogorgonho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
