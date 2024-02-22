@@ -2,7 +2,7 @@
 
 <h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Francisco Gorgonho, e esse é o meu perfil!</h1
 
-- 🔭 Atualmente trabalho como Quality Assurance na empresa MXM Sistemas, especializada em soluções tecnologicas com foco em gestão empresarial.
+<!-- 🔭 Atualmente trabalho como Quality Assurance na empresa Flora Energia, especializada em soluções tecnologicas com foco em gestão empresarial.-->
 - 📫 Fale comigo:
 <br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-gorgonho/)
 
