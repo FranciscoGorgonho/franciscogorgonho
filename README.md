@@ -47,7 +47,3 @@
   <p align="center"><b>Contador de Visitas</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FranciscoGorgonho}/count.svg" alt="Contador de Visitas"></p> 
 </div>
-
-###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
