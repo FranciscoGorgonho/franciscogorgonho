@@ -57,11 +57,11 @@
 
 ## 🚀 Projetos em destaque
 
-- [**Sistema de Livraria Digital**](https://github.com/franciscogorgonho/livraria-digital)  
+- [**Sistema de Livraria Digital**](https://github.com/FranciscoGorgonho/livraria-fullstack)  
   CRUD completo com Node.js, React e PostgreSQL. Autenticação JWT, testes unitários e integração com frontend e backend.
 
-- [**Automação de Testes Web**](https://github.com/franciscogorgonho/robot-framework-tests)  
+- [**Automação de Testes Web**](https://github.com/FranciscoGorgonho/robot-actions)  
   Testes end-to-end com Robot Framework e Playwright, integrados com CI/CD.
 
-- [**Dashboard de Métricas**](https://github.com/franciscogorgonho/dashboard-metrics)  
-  Dashboard interativo com gráficos e filtros dinâmicos em React e TypeScript, consumindo APIs REST.
+- [**Projetos Alura**](https://github.com/FranciscoGorgonho/Alura)  
+  Projetos gerais 
