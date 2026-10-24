@@ -18,7 +18,6 @@
   <a href="mailto:francisco.gorgonho@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <img src="https://img.shields.io/badge/Aberto_a_oportunidades-2EA44F?style=for-the-badge" alt="Aberto a oportunidades" />
 </p>
 
 ---
