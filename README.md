@@ -24,7 +24,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Engenheiro de Qualidade** com formação em **Análise e Desenvolvimento de Sistemas (UNINOVE)** e **3+ anos** atuando entre **QA, automação e engenharia de software**, com experiência em **APIs em arquitetura de microsserviços**, ambientes **SAP S/4HANA**, **aplicações financeiras enterprise** e **web services de alta criticidade**.
+Sou **Engenheiro de Qualidade** com formação em **Análise e Desenvolvimento de Sistemas (UNINOVE)** e **4+ anos** atuando entre **QA, automação e engenharia de software**, com experiência em **APIs em arquitetura de microsserviços**, ambientes **SAP S/4HANA**, **aplicações financeiras enterprise** e **web services de alta criticidade**.
 
 Gosto de trabalhar onde qualidade realmente muda o jogo: **testes automatizados que pegam bugs cedo**, **pipelines que deixam o feedback rápido**, e **processos simples o suficiente para o time seguir sem sofrer**. Para mim, qualidade não é uma etapa no fim: é cultura do time, do refinamento ao deploy.
 
