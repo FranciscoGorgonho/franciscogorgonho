@@ -24,16 +24,26 @@
 
 ## 👋 Sobre mim
 
-Sou **Engenheiro de Qualidade** com formação em **Análise e Desenvolvimento de Sistemas (UNINOVE)** e **3+ anos** atuando entre **QA, automação e engenharia de software**, com experiência em ambientes **SAP S/4HANA**, **aplicações financeiras enterprise** e **web services de alta criticidade**.
+Sou **Engenheiro de Qualidade** com formação em **Análise e Desenvolvimento de Sistemas (UNINOVE)** e **3+ anos** atuando entre **QA, automação e engenharia de software**, com experiência em **APIs em arquitetura de microsserviços**, ambientes **SAP S/4HANA**, **aplicações financeiras enterprise** e **web services de alta criticidade**.
 
-Gosto de trabalhar onde qualidade realmente muda o jogo: **testes automatizados que pegam bugs cedo**, **pipelines que deixam o feedback rápido**, e **processos simples o suficiente para o time seguir sem sofrer**.
+Gosto de trabalhar onde qualidade realmente muda o jogo: **testes automatizados que pegam bugs cedo**, **pipelines que deixam o feedback rápido**, e **processos simples o suficiente para o time seguir sem sofrer**. Para mim, qualidade não é uma etapa no fim: é cultura do time, do refinamento ao deploy.
 
-<!--
-  TODO: adicionar 2–3 resultados com números reais (impacto pesa mais que lista de ferramentas). Exemplos de formato:
-  - ⏱️ Reduzi a regressão manual de **X dias para Y min** automatizando **~N cenários** em CI
-  - 🐞 **N% dos bugs** passaram a ser pegos antes do merge após a suíte de API entrar no pipeline
-  - 📈 Cobertura de cenários críticos de **X% → Y%** em sistema financeiro
--->
+## 📈 Impacto real
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h2>−46%</h2><sub><strong>bugs em produção</strong><br/>de 80 para 43 em 12 meses</sub></td>
+    <td align="center" width="25%"><h2>4x</h2><sub><strong>pipeline mais rápido</strong><br/>de 1h10 para 17 min</sub></td>
+    <td align="center" width="25%"><h2>355</h2><sub><strong>cenários BDD</strong><br/>regressivos em fluxos críticos</sub></td>
+    <td align="center" width="25%"><h2>80</h2><sub><strong>testes automatizados</strong><br/>em execução paralela no CI</sub></td>
+  </tr>
+</table>
+
+- 🏗️ **Implantei a cultura de qualidade no time**: regressivo em BDD (Given–When–Then), revisão de requisitos e participação na definição de **DoR e DoD**
+- 🐞 **Reduzi 46,25% dos bugs em produção** (80 → 43 em 12 meses) com revisão de requisitos, testes regressivos e melhorias no processo de QA
+- ⚡ **Paralelizei a suíte no GitHub Actions**: 80 testes automatizados caíram de **1h10 para 17 minutos** de execução
+- 🧑‍🏫 **Treinei e fiz o onboarding de um QA Júnior**, com pair-coding na automação dos testes regressivos
+- 🤝 Trabalhei lado a lado com devs, tech lead, PO e stakeholders na **estabilização da plataforma**, acelerando entregas e reduzindo retrabalho
 
 > 🎯 **Objetivo:** atuar com **QA Automation / Engenharia de Qualidade**, elevando cobertura, confiabilidade e velocidade de entrega.
 
@@ -42,7 +52,8 @@ Gosto de trabalhar onde qualidade realmente muda o jogo: **testes automatizados 
 ## 🧭 O que eu faço
 
 - 🧪 Automação de **testes E2E, API, regressão e unitários**, cobrindo o fluxo completo (**UI → API → DB**)
-- 🔗 Validação de **integrações entre serviços** (REST e fluxos assíncronos)
+- 📝 Testes funcionais e de aceite em **BDD**, guiados pela **pirâmide de testes**
+- 🔗 Validação e automação de **APIs em microsserviços** com Postman (REST e fluxos assíncronos)
 - ⚙️ Criação e evolução de **pipelines CI/CD** com **GitHub Actions** para feedback rápido e confiável
 - 🔍 Investigação de incidentes com **AWS Lambda/CloudWatch** e Grafana (e boas conversas com logs quando algo dá ruim)
 - 🗄️ Consultas e validações em **PostgreSQL** e **MongoDB** para garantir consistência e rastreabilidade
@@ -96,6 +107,66 @@ Gosto de trabalhar onde qualidade realmente muda o jogo: **testes automatizados 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGorgonho&layout=compact&theme=default&hide_border=true&title_color=0969DA&bg_color=00000000" height="150" alt="Linguagens mais usadas" />
   </picture>
 </p>
+
+---
+
+## 💬 Quem trabalhou comigo
+
+> **"Enquanto ele fosse o QA do time, nada virava 'done' sem passar pelo teste dele. Não por rigidez, por responsabilidade mesmo."**
+>
+> — **Dev Sênior**
+
+<details>
+<summary>Ler depoimento completo</summary>
+<br/>
+
+> Tem uma coisa que resume bem o Francisco: enquanto ele fosse o QA do time, nada virava "done" sem passar pelo teste dele. Não por rigidez, por responsabilidade mesmo. Achou problema, voltava. E o time confiava nesse critério.
+>
+> Nunca vi ninguém testar com a intensidade que ele testava. Cobertura de verdade, dia cheio, e quando o ciclo de regressivo apertava ele ficava até fechar. Isso muda o nível de confiança que todo mundo tem na própria entrega. A gente subia release sabendo que tinha passado por alguém que realmente olhou.
+>
+> E nada disso vinha com atrito. O Francisco parava o que estava fazendo pra tirar dúvida de dev, explicava o cenário que quebrou, ajudava a reproduzir. Nunca tratou bug como acusação, tratava como problema pra resolver junto. Companheiríssimo de time.
+>
+> Se você quer qualidade levada a sério no seu produto, contrata o Francisco. Recomendo demais.
+
+</details>
+
+> **"Nunca se limitou a 'testar entregas': ele questionava, sugeria melhorias e apontava riscos, ajudando o time a pensar além e a entregar soluções mais sólidas."**
+>
+> — **Head de Produto**
+
+<details>
+<summary>Ler depoimento completo</summary>
+<br/>
+
+> Trabalhar ao lado do Francisco foi fundamental para o crescimento do time e para o meu próprio desenvolvimento. Desde o início, ele trouxe uma visão crítica e cuidadosa, sempre com o olhar atento aos detalhes que fazem diferença na qualidade de um produto.
+>
+> Nunca se limitou a "testar entregas": ele questionava, sugeria melhorias e apontava riscos, ajudando o time a pensar além e a entregar soluções mais sólidas.
+>
+> A colaboração dele foi decisiva em momentos-chave, como quando estruturamos práticas de qualidade e refinamentos mais produtivos. Seu posicionamento e busca de melhoria contínua tornaram discussões complexas em conversas construtivas, o que gerava confiança e alinhamento entre todos.
+>
+> Além do profissionalismo, admiro muito a forma humana com que conduz as relações. Ele sempre combinou profundidade técnica com empatia, leveza e respeito — a risada dele contagia o ambiente.
+>
+> Recomendo fortemente o Francisco não apenas pela competência excepcional como QA, mas pelo parceiro de confiança que ele se torna para qualquer time ou liderança que tiver a oportunidade de trabalhar com ele.
+
+</details>
+
+> **"Francisco foi um grande mentor pra mim. […] Aprendi muito sobre o que é qualidade e como implantar qualidade em um projeto."**
+>
+> — **QA treinado e mentorado por mim**
+
+<details>
+<summary>Ler depoimento completo</summary>
+<br/>
+
+> Francisco foi um grande mentor pra mim. Desde o primeiro dia de trabalho, sempre compartilhou informação, desde configurar ambiente, processos, regras de negócio... e acabou virando meu amigo.
+>
+> Tive sorte de trabalhar com ele, pois aprendi muito sobre o que é qualidade e como implantar qualidade em um projeto.
+>
+> Trabalhamos juntos em pair-coding, desenvolvendo uma automação para os testes regressivos e a todo tempo, sempre foi aberto a novas ideias, focado e comprometido.
+>
+> Na vida não basta apenas ser um bom profissional, precisamos também sermos humanos e éticos. E posso afirmar que o Francisco é tudo isso, espero um dia podermos trabalhar juntos de novo.
+
+</details>
 
 ---
 
