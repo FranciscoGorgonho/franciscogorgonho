@@ -54,6 +54,7 @@ Gosto de trabalhar onde qualidade realmente muda o jogo: **testes automatizados 
 - 🧪 Automação de **testes E2E, API, regressão e unitários**, cobrindo o fluxo completo (**UI → API → DB**)
 - 📝 Testes funcionais e de aceite em **BDD**, guiados pela **pirâmide de testes**
 - 🔗 Validação e automação de **APIs em microsserviços** com Postman (REST e fluxos assíncronos)
+- ⚡ **Testes de performance** (carga, estresse, spike e soak) com k6, SLOs e gate de regressão no CI
 - ⚙️ Criação e evolução de **pipelines CI/CD** com **GitHub Actions** para feedback rápido e confiável
 - 🔍 Investigação de incidentes com **AWS Lambda/CloudWatch** e Grafana (e boas conversas com logs quando algo dá ruim)
 - 🗄️ Consultas e validações em **PostgreSQL** e **MongoDB** para garantir consistência e rastreabilidade
@@ -67,12 +68,43 @@ Gosto de trabalhar onde qualidade realmente muda o jogo: **testes automatizados 
 |---|---|
 | **Automação Web (E2E/UI)** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robot-framework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | **API & Unitários** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![RestAssured](https://img.shields.io/badge/RestAssured-25A162?style=flat-square) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) |
+| **Performance** | ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **CI/CD & Processo** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Cloud & Observabilidade** | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Lens](https://img.shields.io/badge/Lens_(Kubernetes)-3D90CE?style=flat-square&logo=kubernetes&logoColor=white) |
 | **Linguagens** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Base Dev & Dados** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 <sub>💡 Base de desenvolvimento, porque entender o "como foi feito" melhora o "como testar".</sub>
+
+---
+
+## ⭐ Projeto vitrine
+
+### [⚡ API Load Testing Suite](https://github.com/FranciscoGorgonho/api-load-testing-suite)
+
+[![performance](https://github.com/FranciscoGorgonho/api-load-testing-suite/actions/workflows/performance.yml/badge.svg)](https://github.com/FranciscoGorgonho/api-load-testing-suite/actions/workflows/performance.yml)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Suíte de **testes de performance** para APIs de e-commerce que vai além do "rodar k6 e olhar o p95": ela **transforma métricas em decisão**. Diz se a release passa, onde o sistema quebra e **quanto dinheiro a lentidão custa**.
+
+- 🎯 **SLOs como código**: uma única fonte gera os thresholds do k6, o *error budget* e o relatório
+- 💥 **Detector de ponto de ruptura**: o teste de estresse aponta em qual degrau de carga o sistema rompeu
+- 💰 **Métricas de negócio**: funil sessão → carrinho → pedido, conversão sob carga e **receita em risco**
+- 🚦 **Gate de regressão em duas camadas** no CI: SLO absoluto + comparação com baseline versionada, bloqueando o merge
+- 🧪 **Comprovado com chaos**: com 2% de erro e +250 ms injetados, os dois gates reprovaram a release ([evidência](https://github.com/FranciscoGorgonho/api-load-testing-suite/blob/main/docs/evidence/2026-10-25-chaos/README.md))
+- 📐 Decisões documentadas em **ADRs** e **estratégia de testes de carga**
+
+<details>
+<summary>📸 Ver relatório gerado pela suíte</summary>
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranciscoGorgonho/api-load-testing-suite/main/docs/evidence/2026-10-25-chaos/04-relatorio-html.png" width="600" alt="Relatório de performance com veredito Reprovado, SLOs por fluxo, error budget e receita em risco" />
+</p>
+</details>
 
 ---
 
