@@ -130,13 +130,13 @@ Suíte de **testes de performance** para APIs de e-commerce que vai além do "ro
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FranciscoGorgonho&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=FranciscoGorgonho&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA&bg_color=00000000" height="150" alt="Estatísticas do GitHub de Francisco Gorgonho" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranciscoGorgonho&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranciscoGorgonho&theme=github" height="160" alt="Estatísticas do GitHub de Francisco Gorgonho" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGorgonho&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGorgonho&layout=compact&theme=default&hide_border=true&title_color=0969DA&bg_color=00000000" height="150" alt="Linguagens mais usadas" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranciscoGorgonho&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranciscoGorgonho&theme=github" height="160" alt="Linguagens mais usadas por commits" />
   </picture>
 </p>
 
